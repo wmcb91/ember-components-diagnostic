@@ -2,8 +2,7 @@
 
 Record your responses inside the fenced code blocks below each question.
 
-1.  Give an example of a visual hierarchy that could be modeled with components
-(draw a wireframe).
+1.  Give an example of a visual hierarchy that could be modeled with components. Explain why each piece might be it's own component.
 
     ```md
     <!-- your response here -->
@@ -15,7 +14,7 @@ Record your responses inside the fenced code blocks below each question.
     # your response here
     ```
 
-1.  What files are created and modified edited to produce a component, and what are their responsibilities?
+1.  What files are created and/or edited to produce a component, and what are their responsibilities?
 
     ```md
     <!-- your response here -->
